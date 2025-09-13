@@ -1,0 +1,50 @@
+.main.container{
+    border: 5px solid;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    height: 100%;
+    color: blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    padding-bottom: 0px;
+    border-radius: 100px;
+}
+.container1{
+    border: 2px solid black;
+    width: 96%;
+    padding: 10px;
+    margin: auto;
+   align-items: center
+   
+}
+.container2{
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 96%;
+}
+.title{
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+}
+h1{
+    background-color: brown;
+    color: aliceblue;
+    margin: 20px;
+    padding: 5px;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+    width: 50px;
+    font-size: medium;
+}
+h2{
+    color: rgb(122, 3, 106);
+}
